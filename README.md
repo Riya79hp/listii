@@ -35,4 +35,4 @@ Easily change your password whenever needed. This feature allows users to update
 The project leverages modern technologies to deliver a high-quality, scalable, and efficient music streaming solution.
 
 ### Deployed Link
-[https://listii.onrender.com/](https://listii.onrender.com/)
+[https://listii-w38y.onrender.com).
